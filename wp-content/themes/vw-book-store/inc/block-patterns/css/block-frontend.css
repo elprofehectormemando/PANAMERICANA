@@ -1,0 +1,115 @@
+/*----- Banner Section -----*/
+.banner-section, .products-section{
+  width: auto;
+  height: auto;
+}
+.banner-section h1{
+  font-weight: 800 !important;
+}
+.banner-section a.wp-block-button__link {
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.banner-section a.wp-block-button__link:hover{
+  background: #75b64a !important;
+}
+.banner-section .wp-block-buttons{
+  display: block;
+}
+/*----- Product Section -----*/
+.products-section h2{
+  font-weight: 700 !important;
+  border-bottom: solid 1px #e1e1e1;
+}
+.products-section li.wc-block-grid__product {
+  border: solid 1px #e1e1e1;
+  padding: 10px !important;
+  text-align: left;
+  flex: 1 0 23% !important;
+  max-width: 23% !important;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.products-section ul.wc-block-grid__products li:last-child{
+  margin-right: 0;
+}
+.products-section li.wc-block-grid__product a{
+  text-decoration: none;
+}
+.products-section .wc-block-grid__product-onsale{
+  background: #f06845;
+  margin: 0 ;
+  border: 0;
+  color: #fff !important;
+  border-radius: 0px;
+  padding: 8px 15px;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+.products-section li a.add_to_cart_button{
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.products-section li:hover img{
+  opacity: 0.5;
+}
+.products-section li:hover a.add_to_cart_button{
+  display: block !important;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  transform: translate(-28%,-50%);
+}
+.products-section .wc-block-grid__product-title{
+  color: #3f3f3f;
+  margin-top: 0;
+  padding-bottom: 5px;
+  margin: 0;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.products-section .wc-block-grid__product-price.price {
+  color: #3f3f3f;
+  font-size: 13px;
+  margin: 0;
+  font-weight: 600;
+}
+.products-section .wc-block-grid__product-price.price del{
+  color: #919191;
+}
+.products-section .wc-block-grid__product-price.price ins{
+  text-decoration: none;
+}
+.products-section .wc-block-grid__product-add-to-cart{
+  margin: 0;
+}
+
+/*------ Media CSS ------*/
+@media screen and (max-width: 768px) and (min-width: 576px){
+  .banner-section .wp-block-column:first-child, .banner-section .wp-block-column:nth-child(3){
+    flex-basis: 15% !important;
+  }
+  .banner-section .wp-block-column.slider-cont:nth-child(2) {
+    flex-basis: 100% !important;
+    margin-left: 0 !important;
+  }
+  .products-section li.wc-block-grid__product{
+    margin-right: 16px;
+  }
+}
+@media screen and (max-width: 575px){
+  .banner-section p{
+    display: none;
+  }
+  .products-section li.wc-block-grid__product{
+    flex: 1 0 100% !important;
+    max-width: 100% !important;
+  }
+}

@@ -1,0 +1,1176 @@
+# Translation of Themes - Startup Shop in Spanish (Venezuela)
+# This file is distributed under the same license as the Themes - Startup Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-30 07:18:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es_VE\n"
+"Project-Id-Version: Themes - Startup Shop\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Startup Shop -  is the latest design, unique, and multipurpose FREE WordPress shop theme. It comes with complete responsive layouts to look your site winning on any screen and gadgets. This shopping theme's engaging design and the smooth stock display will bring your eStore to a new goal. And you can use this free WordPress store theme for Sports, Toys, Foods, Fruits, Shoes, Clothes, Tech, and much more.In a word, it best fits for those who want to build a site to sell products or provide services. So, do you want to do business with the best quality store theme? If yes, you're in the right place, and don't waste your time searching outside. Because it comes with a modern and perfect design with high features to boost sales.Besides, It also includes Live Search, Nav Bar, Archives, Categories, Recent Posts, Back to Top Buttons, Buy Now, Discount, and many more. And to support the buyer to buy later, it wraps with Add to Cart, Wishlist, and Compare Buttons.Slider, Smart Filter, Ajax, RTL, Translation, Color, and Image Variety are some of its main features. But without it, it also works with some modern and famous page builders. Like  Brizy, Divi, Site Origin, WPBakery, Elementor, and many more. And to make your 100% shop site, it has added a great WooCommerce plugin.So, there will be no issue for both you and your buyers to work with the payment method. And most importantly, you needn't be an expert coder to build your rich store site with it.Above all, our WordPress Shop theme is ready to install, use, and customize. It'll give both you and your buyer a friendly user experience. And its rich shopping features make you stand out from others. If you want, click the link given to see our demo ( https://athemeart.dev/wp/startup/demo-1/ )"
+msgstr "Startup Shop - Es el último diseño GRATIS de tema de tienda para WordPress, único y multiuso. Viene con diseños adaptables completos para ver tu sitio como ganador en cualquier pantalla y dispositivos. El atrayente diseño de este tema de tienda y la suave visualización de las existencias llevará tu tienda de comercio electrónico a una nueva meta. Y puedes usar este tema de tienda gratuito para WordPress para deportes, juguetes, alimentación, frutas, zapatos, ropa, tecnología y mucho más. En una palabra, es el más adecuado para aquellos que quieren crear un sitio para vender productos o proporcionar servicios. Entonces, ¿quieres hacer negocios con el mejor tema de tienda de calidad? Si es así, estás en el lugar correcto y no pierdas tu tiempo buscando fuera. Porque viene con un diseño moderno y perfecto con altas características para impulsar las ventas. Además, también incluye búsqueda en vivo, barra de navegación, archivos, categorías, entradas recientes, botones de vuelta al inicio, comprar ahora, descuentos y mucho más. Y para ayudar al comprador a volver a comprar, incluye botones de añadir a la cesta, lista de deseos y de comparación. Carrusel, filtro Inteligente, Ajax, RTL, traducción, variedad de colores e Imágenes son algunas de sus principales características. Pero sin ellas, también funciona con algunos modernos y famosos maquetadores de páginas, como Brizy, Divi, Site Origin, WPBakery, Elementor y muchos más. Y para hacer al 100 % tu sitio de tienda, se ha añadido el gran plugin WooCommerce. Por tanto, no habrá ningún problema para que tanto tú como tus compradores trabajen con el método de pago. Y lo más importante, no necesitas ser un experto programador para crear con el tu fantástico sitio de tienda. Sobre todo, nuestro tema de tiendas para WordPress está listo para instalar, usar y personalizar. Te dará a ti y a tus compradores una experiencia de usuario amigable. Y sus magníficas características de compra te harán destacar entre los demás. Si quieres, haz clic en el enlace proporcionado para ver nuestra demostración (https://athemeart.dev/wp/startup/demo-1/)"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Startup Shop"
+msgstr "Startup Shop"
+
+#: inc/customizer/customizer.php:46
+msgid "Get PRO !"
+msgstr "¡Obtén la versión PRO!"
+
+#. translators: 1: developer website, 2: WordPress url
+#: inc/class/class-footer.php:92
+msgctxt "credit - theme"
+msgid "Startup Shop Theme"
+msgstr "Tema Startup Shop"
+
+#: woocommerce/single-product/rating.php:42
+msgid "Write a review"
+msgstr "Escribir una reseña"
+
+#: woocommerce/single-product/rating.php:39
+msgid "Reviews"
+msgstr "Valoraciones"
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Solo los clientes conectados que hayan comprado este producto pueden dejar una valoración."
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your review "
+msgstr "Tu valoración"
+
+#: woocommerce/single-product-reviews.php:120
+msgid "Very poor"
+msgstr "Muy pobre"
+
+#: woocommerce/single-product-reviews.php:119
+msgid "Not that bad"
+msgstr "No está mal"
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Average"
+msgstr "Normal"
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Good"
+msgstr "Bien"
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: woocommerce/single-product-reviews.php:115
+msgid "Rate&hellip;"
+msgstr "Valorar&hellip;"
+
+#: woocommerce/single-product-reviews.php:114
+msgid "Your rating"
+msgstr "Tu valoración"
+
+#. translators: %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:110
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "Debes estar %1$sconectado%2$s para publicar una valoración."
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Name"
+msgstr "Nombre"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr "Enviar"
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:66
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta en %s"
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:64
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Sé el primero en valorar «%s»"
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:64
+msgid "Add a review"
+msgstr "Añadir una valoración"
+
+#: woocommerce/single-product-reviews.php:53
+msgid "There are no reviews yet."
+msgstr "Aún no hay valoraciones."
+
+#: woocommerce/result-count.php:64
+msgid "ALL:"
+msgstr "TODO:"
+
+#: woocommerce/result-count.php:60
+msgid "View:"
+msgstr "Ver:"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr "Proceder al pago"
+
+#. Template Name of the theme
+msgid "Without hero section"
+msgstr "Sin sección a pantalla completa"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:46
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: sidebar.php:30
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Archivos"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:252
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: inc/woocommerce.php:245 inc/woocommerce.php:247
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de compra"
+
+#: inc/woocommerce.php:64
+msgid "Woocommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/theme-core.php:245
+msgid "Default Header Image"
+msgstr "Imagen por defecto de la cabecera"
+
+#: inc/theme-core.php:158
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/theme-core.php:148
+msgid "Home Page Slider"
+msgstr "Carrusel de la página de inicio"
+
+#: inc/theme-core.php:138
+msgid "Logo Right"
+msgstr "Logotipo a la derecha"
+
+#: inc/theme-core.php:131 inc/theme-core.php:140 inc/theme-core.php:150
+#: inc/theme-core.php:160 inc/woocommerce.php:66
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: inc/theme-core.php:129
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/theme-core.php:52
+msgid "Primary"
+msgstr "Principal"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3526
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3524
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3523
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3521
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3516
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+#: inc/tgm/class-tgm-plugin-activation.php:3523
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+#: inc/tgm/class-tgm-plugin-activation.php:3523
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3513
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3504
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3164
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2940
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2914
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2765
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2763
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2732
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2729
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2690
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2620
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2609
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2560
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2559
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2555
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2539
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2516
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2504
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2496
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2488
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2402
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2398
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2394
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2348
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2339
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2336
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Active"
+msgstr "Activo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2325
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2304
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2301
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2282
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2279
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1988
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1127
+#: inc/tgm/class-tgm-plugin-activation.php:2954
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgm/class-tgm-plugin-activation.php:943
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: inc/tgm/class-tgm-plugin-activation.php:940
+#: inc/tgm/class-tgm-plugin-activation.php:943
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:940
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: inc/tgm/class-tgm-plugin-activation.php:529
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/tgm/class-tgm-plugin-activation.php:528
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:400
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:398
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:2958
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:3165
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#: inc/tgm/class-tgm-plugin-activation.php:833
+#: inc/tgm/class-tgm-plugin-activation.php:2539
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/tgm/class-tgm-plugin-activation.php:391
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:363
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:356
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:349
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#. translators: 1: date, 2: time
+#: inc/template-functions.php:235
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/customizer/theme-option.php:300
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer/theme-option.php:282
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/theme-option.php:263
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/theme-option.php:247
+msgid "Social Profile"
+msgstr "Perfil social"
+
+#: inc/customizer/theme-option.php:217
+msgid "Copyright Write Text"
+msgstr "Texto escrito del copyright"
+
+#: inc/customizer/theme-option.php:200
+msgid "Copyright & Dev. Credits"
+msgstr "Copyright y acreditación del desarrollador"
+
+#: inc/customizer/theme-option.php:182
+msgid "Page Layout Options"
+msgstr "Opciones del diseño de páginas"
+
+#: inc/customizer/theme-option.php:164
+msgid "Page Management"
+msgstr "Gestión de páginas"
+
+#: inc/customizer/theme-option.php:154
+msgid "Hide Single post Meta Info ?"
+msgstr "¿Ocultar la información meta de la entrada individual?"
+
+#: inc/customizer/theme-option.php:138
+msgid "Hide Blog Archive Meta Info ?"
+msgstr "¿Ocultar la información meta del archivo del blog?"
+
+#: inc/customizer/theme-option.php:121 inc/customizer/theme-option.php:264
+#: inc/customizer/theme-option.php:283 inc/customizer/theme-option.php:301
+msgid "Leave empty to hide"
+msgstr "Déjalo vacío para ocultarlo"
+
+#: inc/customizer/theme-option.php:120
+msgid "Read more text"
+msgstr "Texto «Leer más»"
+
+#: inc/customizer/theme-option.php:103
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/theme-option.php:102
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/theme-option.php:99
+msgid "Choose Archive, Blog Page Content type as default"
+msgstr "Elige archivo, tipo de contenido de página de blog como por defecto"
+
+#: inc/customizer/theme-option.php:98
+msgid "Archive Content Type"
+msgstr "Tipo de contenido del archivo"
+
+#: inc/customizer/theme-option.php:73
+msgid "Blog Layout Options"
+msgstr "Opciones del diseño del blog"
+
+#: inc/customizer/theme-option.php:55 inc/customizer/theme-option.php:80
+#: inc/customizer/theme-option.php:189
+msgid "Full Container"
+msgstr "Contenedor completo"
+
+#: inc/customizer/theme-option.php:54 inc/customizer/theme-option.php:79
+#: inc/customizer/theme-option.php:188
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/theme-option.php:53 inc/customizer/theme-option.php:78
+#: inc/customizer/theme-option.php:187
+msgid "Content - Primary Sidebar"
+msgstr "Contenido - Barra lateral principal"
+
+#: inc/customizer/theme-option.php:52 inc/customizer/theme-option.php:77
+#: inc/customizer/theme-option.php:186
+msgid "Primary Sidebar - Content"
+msgstr "Barra lateral principal - Contenido"
+
+#: inc/customizer/theme-option.php:49 inc/customizer/theme-option.php:74
+#: inc/customizer/theme-option.php:184
+msgid "Choose between different layout options to be used as default"
+msgstr "Elige entre las diferentes opciones de diseño para usar por defecto"
+
+#: inc/customizer/theme-option.php:48
+msgid "Single Post Layout "
+msgstr "Diseño de las entradas individuales"
+
+#: inc/customizer/theme-option.php:31
+msgid "Blog Management"
+msgstr "Gestión del blog"
+
+#: inc/customizer/theme-option.php:17
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/customizer.php:45
+msgid "Startup Pro Version!"
+msgstr "¡Versión Pro de Startup!"
+
+#: inc/customizer/core/default.php:36
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/customizer/core/default.php:35
+msgid "Copyright All right reserved"
+msgstr "Copyright. Todos los derechos reservados."
+
+#: inc/class/class-template-tags.php:160
+msgid "Tags"
+msgstr "Etiquetas"
+
+#. translators: %s: number of comments
+#: inc/class/class-template-tags.php:143
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: inc/class/class-template-tags.php:67
+msgid "Posted in "
+msgstr "Publicado en "
+
+#: inc/class/class-template-tags.php:61
+msgid "Posted on "
+msgstr "Publicado el "
+
+#: inc/class/class-template-tags.php:55
+msgid "Posted by"
+msgstr "Publicado por"
+
+#: inc/class/class-post-related.php:159
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: inc/class/class-post-related.php:158
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/class/class-post-related.php:157
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/class/class-post-related.php:145
+msgid "Posts navigation"
+msgstr "Navegación de las entradas"
+
+#: inc/class/class-post-related.php:144
+msgid "Next Posts"
+msgstr "Entradas siguientes"
+
+#: inc/class/class-post-related.php:143
+msgid "Previous Posts"
+msgstr "Entradas anteriores"
+
+#. translators:straing
+#: inc/class/class-header.php:284
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/class/class-header.php:48
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. translators: 1: developer website, 2: WordPress url
+#: inc/class/class-footer.php:92
+msgid " %1$s By aThemeArt - Proudly Powered by WordPress ."
+msgstr " %1$s de aThemeArt - Funciona gracias a WordPress."
+
+#. translators: 1: Current Year, 2: Blog Name
+#: inc/class/class-footer.php:81
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: 1: Current Year, 2: Blog Name
+#: inc/class/class-footer.php:81
+msgid "Copyright &copy; %1$s %2$s. All Right Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Todos los derechos reservados."
+
+#: inc/admin/admin-page.php:452
+msgid "More Information"
+msgstr "Más información"
+
+#: inc/admin/admin-page.php:443
+msgid "You can control overall everything without code"
+msgstr "Puedes controlar todo en general sin código"
+
+#: inc/admin/admin-page.php:438
+msgid "WooCommerce Layout Options"
+msgstr "Opciones de diseño para WooCommerce"
+
+#: inc/admin/admin-page.php:433
+msgid "WooCommerce Child Theme"
+msgstr "Tema hijo para WooCommerce"
+
+#: inc/admin/admin-page.php:428
+msgid "WooCommerce Customizable Options"
+msgstr "Opciones personalizables para WooCommerce"
+
+#: inc/admin/admin-page.php:423
+msgid "WooCommerce Custom Plugins"
+msgstr "Plugins personalizados para WooCommerce"
+
+#: inc/admin/admin-page.php:420
+msgid "Fully customizable feature"
+msgstr "Características totalmente personalizables"
+
+#: inc/admin/admin-page.php:419
+msgid "Basic feature"
+msgstr "Características básicas"
+
+#: inc/admin/admin-page.php:418
+msgid "WooCommerce "
+msgstr "WooCommerce "
+
+#: inc/admin/admin-page.php:413
+msgid "Footer Carditis"
+msgstr "Acreditaciones del pie de página"
+
+#: inc/admin/admin-page.php:408
+msgid "Sidebar Disable / Enable"
+msgstr "Desactivar/activar la barra lateral"
+
+#: inc/admin/admin-page.php:404
+msgid "Three Style"
+msgstr "Estilo tres"
+
+#: inc/admin/admin-page.php:403
+msgid "One Style"
+msgstr "Estilo uno"
+
+#: inc/admin/admin-page.php:402
+msgid "Sidebar Style"
+msgstr "Estilo de la barra lateral"
+
+#: inc/admin/admin-page.php:397
+msgid "Social Share"
+msgstr "Compartir socialmente"
+
+#: inc/admin/admin-page.php:392
+msgid "Related Posts "
+msgstr "Entradas relacionadas"
+
+#: inc/admin/admin-page.php:389
+msgid "Standard,Grids, Standard left, Standard right layout"
+msgstr "Diseño estándar, cuadrículas, estándar a la izquierda, estándar a la derecha"
+
+#: inc/admin/admin-page.php:388
+msgid "Standard layout"
+msgstr "Diseño estándar"
+
+#: inc/admin/admin-page.php:387
+msgid "Blog Posts Layout"
+msgstr "Diseño de las entradas del blog"
+
+#: inc/admin/admin-page.php:381
+msgid "Custom Blog Template"
+msgstr "Plantilla de blog personalizada"
+
+#: inc/admin/admin-page.php:375
+msgid "Custom Page Template"
+msgstr "Plantilla de página personalizada"
+
+#: inc/admin/admin-page.php:369
+msgid "Unlimited Fonts"
+msgstr "Fuentes ilimitadas"
+
+#: inc/admin/admin-page.php:364
+msgid "Unlimited colors"
+msgstr "Colores ilimitados"
+
+#: inc/admin/admin-page.php:358
+msgid "Latest Posts Wigets"
+msgstr "Widgets de últimas entradas"
+
+#: inc/admin/admin-page.php:353
+msgid "Pricing Sections"
+msgstr "Secciones de precios"
+
+#: inc/admin/admin-page.php:347
+msgid "Testimonials Sections"
+msgstr "Secciones de recomendaciones"
+
+#: inc/admin/admin-page.php:341
+msgid "Portfolio & Project Sections"
+msgstr "Secciones de porfolio y proyectos"
+
+#: inc/admin/admin-page.php:336
+msgid "Team Sections"
+msgstr "Secciones de equipo"
+
+#: inc/admin/admin-page.php:331
+msgid "Features Sections"
+msgstr "Sección destacadas"
+
+#: inc/admin/admin-page.php:326
+msgid "Services Sections"
+msgstr "Secciones de servicios"
+
+#: inc/admin/admin-page.php:323
+msgid "Theme Own Slider or 3rd party plugins"
+msgstr "Carrusel propio del tema o plugins de terceros"
+
+#: inc/admin/admin-page.php:322
+msgid "3rd party plugins"
+msgstr "Plugins de terceros"
+
+#: inc/admin/admin-page.php:321
+msgid "Slider Plugins"
+msgstr "Plugins de carrusel"
+
+#: inc/admin/admin-page.php:318
+msgid "Theme Own Addons"
+msgstr "Extensiones propias del tema"
+
+#: inc/admin/admin-page.php:317
+msgid "Only Elementor plugins"
+msgstr "Solo plugins para Elementor"
+
+#: inc/admin/admin-page.php:316
+msgid "Elementor Page Builder toolkit & Addons"
+msgstr "Herramientas y extensiones para el maquetador de páginas Elementor"
+
+#: inc/admin/admin-page.php:313
+msgid "Full features Customizer"
+msgstr "Características completas del personalizador"
+
+#: inc/admin/admin-page.php:312
+msgid "lite features Customizer"
+msgstr "Características básicas del personalizador"
+
+#: inc/admin/admin-page.php:308
+msgid "Own Ticket, email , Skype &amp; Teamviewer ( 24 / 7 )"
+msgstr "Tique propio, correo electrónico, Skype y TeamViewer (24/7)"
+
+#: inc/admin/admin-page.php:307
+msgid "WP forum ( 48 / 5 )"
+msgstr "Foro WP (48/5)"
+
+#: inc/admin/admin-page.php:306
+msgid "24/7 Priority Support"
+msgstr "Soporte prioritario 24/7"
+
+#: inc/admin/admin-page.php:301
+msgid "Startup-shop PRO"
+msgstr "Startup Shop PRO"
+
+#: inc/admin/admin-page.php:300
+msgid "Startup-shop"
+msgstr "Startup Shop"
+
+#: inc/admin/admin-page.php:299
+msgid "Features"
+msgstr "Características"
+
+#: inc/admin/admin-page.php:241
+msgid "View changelog below:"
+msgstr "Mira a continuación el registro de cambios:"
+
+#: inc/admin/admin-page.php:224
+msgid "Go to Dashboard"
+msgstr "Ir al escritorio"
+
+#: inc/admin/admin-page.php:224
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Ir a «Escritorio &rarr; Inicio»"
+
+#: inc/admin/admin-page.php:221
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Volver a «Escritorio &rarr; Actualizaciones»"
+
+#: inc/admin/admin-page.php:221
+msgid "Return to Updates"
+msgstr "Volver a las actualizaciones"
+
+#: inc/admin/admin-page.php:211
+msgid "Download Demo"
+msgstr "Descargar la demostración"
+
+#: inc/admin/admin-page.php:210
+msgid "You can find aThemeArt's all sample content on Github."
+msgstr "En GitHub puedes encontrar todo el contenido de ejemplo de aThemeArt."
+
+#: inc/admin/admin-page.php:209
+msgid "Need Demo Content?"
+msgstr "¿Necesitas contenido de demostración?"
+
+#: inc/admin/admin-page.php:205
+msgid "Info about PRO version"
+msgstr "Información sobre la versión PRO"
+
+#: inc/admin/admin-page.php:204 inc/admin/admin-page.php:293
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Actualiza a la versión PRO para obtener más características interesantes."
+
+#: inc/admin/admin-page.php:203
+msgid "Need more features?"
+msgstr "¿Necesitas más características?"
+
+#: inc/admin/admin-page.php:199
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/admin/admin-page.php:198
+msgid "Please put it in our support forum."
+msgstr "Por favor, ponla en nuestro foro de soporte."
+
+#: inc/admin/admin-page.php:197
+msgid "Got theme support question?"
+msgstr "¿Tienes alguna pregunta de soporte sobre el tema?"
+
+#. translators: %s: plugin name.
+#: inc/admin/admin-page.php:193
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/admin/admin-page.php:192
+msgid "All Theme Options are available via Customize screen."
+msgstr "Todas las opciones del tema están disponibles en la pantalla «Personalizar»."
+
+#: inc/admin/admin-page.php:191 inc/admin/admin-page.php:311
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#: inc/admin/admin-page.php:151
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/admin/admin-page.php:148
+msgid "Free Vs PRO"
+msgstr "Gratis frente a PRO"
+
+#: inc/admin/admin-page.php:135
+msgid "Get Demo Content"
+msgstr "Obtener el contenido de demostración"
+
+#: inc/admin/admin-page.php:133
+msgid "Rate this theme"
+msgstr "Valorar este tema"
+
+#: inc/admin/admin-page.php:131
+msgid "View Demo"
+msgstr "Ver la demostración"
+
+#: inc/admin/admin-page.php:129
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/admin/admin-page.php:122
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/admin/admin-page.php:106
+msgid "Get started with Startup Shop"
+msgstr "Primeros pasos con Startup Shop"
+
+#. translators: %s: plugin name.
+#: inc/admin/admin-page.php:104
+msgid "Welcome! Thank you for choosing Startup Shop! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "¡Bienvenido! ¡Gracias por elegir Startup Shop! Para aprovechar al máximo lo mejor que nuestro tema puede ofrecer, asegúrate de visitar nuestra %1$spágina de bienvenida%2$s."
+
+#. translators: %s: plugin name.
+#: inc/admin/admin-page.php:103
+msgid "Dismiss"
+msgstr "Descartar"
+
+#. translators: %s: plugin name.
+#: inc/admin/admin-page.php:85
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas, ¿eh?"
+
+#. translators: %s: plugin name.
+#: inc/admin/admin-page.php:80
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Acción fallida. Por favor, refresca la página e inténtalo de nuevo."
+
+#: inc/admin/admin-page.php:36 inc/admin/admin-page.php:37
+msgid "Getting Started Startup Shop"
+msgstr "Primeros pasos con Startup Shop"
+
+#. translators: 1: title.
+#: comments.php:113
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Puedes usar estas etiquetas y atributos <abbr title=\"Lenguaje de marcaje de hipertexto\">HTML</abbr>: %s"
+
+#: comments.php:112
+msgid "Your email address will not be published. Required fields are marked *."
+msgstr "No se publicará tu dirección de correo electrónico. Los campos obligatorios están marcados con *."
+
+#: comments.php:109
+msgid "Post Comment"
+msgstr "Publicar un comentario"
+
+#: comments.php:104
+msgid "Comment"
+msgstr "Comentar"
+
+#: comments.php:99
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Guardar mi nombre, correo electrónico y web en este navegador para la próxima vez que comente."
+
+#: comments.php:96
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:90
+msgid "Your Email"
+msgstr "Tu correo electrónico"
+
+#: comments.php:85
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:36
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en «%1$s»"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:15 inc/class/class-header.php:288
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://athemeart.com/"
+msgstr "https://athemeart.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "aThemeArt"
+msgstr "aThemeArt"

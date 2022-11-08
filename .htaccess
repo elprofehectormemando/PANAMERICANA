@@ -1,0 +1,22 @@
+
+# BEGIN WordPress
+# Las directivas (líneas) entre «BEGIN WordPress» y «END WordPress» son
+# generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
+RewriteCond %{REQUEST_FILENAME} -s
+RewriteCond %{HTTP_USER_AGENT} !facebookexternalhit/[0-9]
+RewriteCond %{HTTP_USER_AGENT} !Twitterbot/[0-9]
+RewriteCond %{HTTP_USER_AGENT} !Googlebot/[0-9]
+RewriteRule wp-content/uploads/wp-import-export-lite(\/[A-Za-z0-9_@.\/&+-]+)+\.([A-Za-z0-9_@.\/&+-]+)$ [L]
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /panamericana/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /panamericana/index.php [L]
+</IfModule>
+
+
+# END WordPress

@@ -1,0 +1,272 @@
+/*
+Theme Name: Apparel Store
+Author: aThemeArt
+Author URI: https://athemeart.com/
+Theme URI: https://athemeart.com/downloads/apparel-store-wordpress-theme/
+Description: A great theme can be the key to a great website. Apparel Store offers top functions with little to no previous experience. It includes several predesigned pages that can be used with minimal editing. Drag and drop your own images and content. Access the large array of customization available for backgrounds, fonts, color schemes, and more. The Apparel Store is both beautiful and functional. It offers a strong foundation for the building of any online shop with WooCommerce. It works well for sports goods, clothing items, retail stores, camera items, apparel & clothing, and endless options from other stores. If you are selling direct to the customer or business to business this theme can work for you. Create eye-catching SEO sites that attract new customers and bring back returning customers. With all of the needed functions, it supports strong customer service options. Communicate easily with your customers through contact forms, newsletters, and other interactions. It includes the ability to link to your social media for the best visibility for your brand. Layouts can be adapted as needed and customization is fast and easy with drag-and-drop editing of Elementor and integration with Guttenberg.  Apparel Store offers a reliable and responsive theme for any business. It is lightweight and easy to use. Loading is fast and customer interactions are smooth and intuitive.
+Template: startup-shop
+Version: 1.0.0
+Requires at least: 5.0
+Tested up to: 6.0
+Requires PHP: 7.0
+License: GNU General Public License v3
+License URI: http://www.gnu.org/licenses/gpl.html
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, sticky-post, custom-background, custom-header, custom-colors, custom-menu, featured-images, full-width-template, translation-ready, theme-options, threaded-comments, custom-logo, blog, e-commerce
+Text Domain: apparel-store
+
+Apparel Store WordPress Theme, Copyright 2022 aThemeArt
+Apparel Store is distributed under the terms of the GNU GPL
+
+Apparel Store is child theme of Startup Shop WordPress Theme, Copyright 2022 aThemeArt
+*/
+.container, .container-sm, .container-md, .container-lg, .container-xl {
+  max-width: 1200px;
+}
+/*--------------------------------------*/
+/*--------------------------------------*/
+			/*navbar-2nd*/
+/*------------------------------------------*/
+/*--------------------------------------*/
+:root {
+  --secondary-color: #0068D0!important;
+ 
+  
+  --nav-color-h:#0068D0!important;
+  --nav-sub-color:#0068D0!important;
+  --nav-sub-bg-h:#0068D0!important;
+  
+}
+		#header-2nd.replace-3rd-style{
+			position: absolute;
+			top: 0;
+			right: 0;
+			left: 0;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+			z-index: 9999;
+			-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+			padding: 0px;
+			background: rgba(0, 0, 0, 0.09);
+		}
+		#header-2nd .icon-warp{
+			margin-left: 20px;
+		}
+		#header-2nd.replace-3rd-style .icon-warp{
+			padding:20px 0px 20px 20px;
+			border-left: 1px solid rgba(255, 255, 255, 0.2);
+			margin-left: 20px;
+		}
+
+		#header-2nd.replace-3rd-style ul.social-icon li a{
+			background: none;
+		}
+		#header-2nd.replace-3rd-style ul.social-icon li a{
+			color: var(--nav-color);
+		}
+
+		@media (max-width: 800px){
+			#header-2nd.replace-3rd-style .icon-warp{
+				border: none;
+				margin: 0px;
+				padding: 20px 30px 20px 30px;
+			}
+			#header-2nd .logo-wrap{
+				margin: 0px auto;
+			}
+		}
+		#header-2nd.replace-3rd-style .logo-wrap{
+			padding: 10px 0px;
+		}
+		#header-2nd .logo-wrap{
+			max-width: 280px;
+		}
+		.hero-block-wrap.header-3 .site-header-text-wrap{
+			margin-top: 50px;
+			margin-bottom: 50px;
+			
+		}
+
+@media only screen and (min-width : 800px) {
+		#navbar{
+			position: static;
+			background: none;
+		}
+		#navbar::after {
+			display: none;
+		}
+		#navbar-2nd ul{
+			padding: 0px;
+			margin: 0px;
+		}
+
+		
+		#navbar ul > li:hover > a, #navbar ul > li.current > a, #navbar ul > li > a:focus, #navbar ul > li.focus > a, #navbar ul > li.current_page_item > a{
+			background: none;
+		}
+		#navbar .navigation-menu li ul, #masthead .header-icon li ul {
+			top: 90%!important;
+		}
+		#navbar ul > li > a::before {
+			display: none!important;
+		}
+}		
+		#header-2nd ul.social-icon{
+			display:block;
+			list-style:none;
+			padding: 0px;
+		}
+		#header-2nd ul.social-icon li{
+			float: left;
+			margin:0px 5px;
+		}
+		#header-2nd ul.social-icon li a{
+			padding:10px 0px;
+			background-color: #F7F7F7;
+			width:40px;
+			height:40px;
+			font-size: 18px;
+			display:inline-block;
+			-webkit-border-radius:50%;
+			border-radius:50%;
+			line-height:20px;
+			text-align:center;
+			color:var( --primary-color );
+			margin-top: 10px;
+			
+		}
+		#header-2nd ul.social-icon li a:hover,
+		#header-2nd ul.social-icon li a:focus,
+		#header-2nd ul.social-icon li a:active{
+			background:var(--secondary-color);
+			color:#fff;
+			
+		}
+		ul.social-icon li a{
+			position: relative;
+		}
+		ul.social-icon li a span.quantity {
+		  position: absolute;
+		  color: var(--quaternary-color);
+		  line-height: 19px;
+		  font-size: 11px;
+		  right: -8px;
+		  margin-left: -35px;
+		  top: -10px;
+		  background: var(--secondary-color);
+		  border-radius: 50%;
+		  text-align: center;
+		  width: 20px;
+		  height: 20px;
+		  margin: 0px !important;
+		}
+
+.ms-auto{
+	margin-left: auto;
+}
+#colophon.site-footer .back-to-top {
+  height: 45px;
+  width: 45px;
+  top: -23px;
+}
+#static_header_banner.header-style-1{
+	height: 60vh;
+	min-height: 300px;
+}
+#static_header_banner .site-header-text-wrap{
+	padding-top: 20vh;
+}
+@media only screen and (max-width : 800px) {
+	.d-flex.responsive{
+		display: block!important;
+	}
+	#header-2nd.replace-3rd-style{
+		text-align: center;
+	}
+	.social-icon.d-flex{
+		display: inline;
+		float: left;
+	}
+	body.admin-bar  #header-2nd.replace-3rd-style{
+		top: 40px;
+	}
+}
+.startup-shop-blogwrap .content-wrap{
+	padding-top: 0px;
+}
+.startup-shop-blogwrap .post{
+	background: #F3F6F8;
+	padding: 30px 20px 20px 20px;
+}
+.startup-shop-blogwrap .post .theme-btn:hover, 
+.startup-shop-blogwrap .post .theme-btn:focus{
+	background: none;
+	color: var(--secondary-color )!important;
+}
+
+.startup-shop-blogwrap .post .theme-btn:hover:before,
+.startup-shop-blogwrap .post .theme-btn:focus:before{
+ 	background: var( --secondary-color );
+ }
+ .woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+ 	background: #F3F6F8!important;
+ }
+
+#navbar .navigation-menu li .icofont-rounded-down:hover,
+#navbar .navigation-menu li .icofont-rounded-down:focus{
+	background: var( --secondary-color )!important;
+}
+
+.nav-links{
+	text-align: center;
+	width: 100%;
+}
+.nav-links{
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	clear: both;
+	border: none;
+	padding-top: 20px;
+}
+.nav-links ul li {
+    padding: 0;
+    margin: 0;
+    display:inline-block;
+    overflow: hidden;
+    float: none;
+}
+.nav-links ul li a, 
+.nav-links ul li span {
+	margin: 0;
+	text-decoration: none;
+	padding: 0;
+	line-height: 1;
+	font-size: 16px;
+	font-weight: 400;
+	width:42px;
+	height:42px;
+	line-height:40px;
+	display: block;
+	margin:0px 5px;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius:50%;
+	border: 1px solid #0068D0;
+
+}
+.nav-links ul li a.current, 
+.nav-links ul li span.current,
+.nav-links ul li a:hover,
+.nav-links ul li a:focus{
+	 background: #0068D0;
+	 color: #fff;
+}
+.nav-links ul li a.prev,
+.nav-links ul li a.next {
+	
+	font-size: 12px;
+}
+.form-submit{
+	margin-top: 30px;
+}

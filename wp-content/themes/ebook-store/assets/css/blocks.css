@@ -1,0 +1,32 @@
+/*
+Theme Name: Ebook Store
+Description: Used to style Gutenberg Blocks.
+*/
+
+/*--------------------------------------------------------------
+4.0 Blocks - Layout Elements
+--------------------------------------------------------------*/
+/* Buttons */
+.entry-content .wp-block-button__link {
+  background: #3edbf0 ;
+  border: 1px solid #3edbf0;
+  padding: 10px 5px;
+  color: #ffffff !important;
+  font-weight: 800;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 0px;
+}
+.wp-block-button .wp-block-button__link:hover,
+.wp-block-button .wp-block-button__link:focus {
+  background: transparent;
+  color: #3edbf0 !important;
+  border: 1px solid #3edbf0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.wp-block-buttons .wp-block-button {
+  display: inline-block;
+  margin:0 0 15px;
+}

@@ -1,0 +1,94 @@
+/*----- Banner Section -----*/
+.banner-section h1, .products-section h2, .products-section .wc-block-grid__product-title{
+	font-family: 'Montserrat', sans-serif !important;
+	font-weight: bold;
+}
+.banner-section .wp-block-button__link, .banner-section p, .products-section li a.add_to_cart_button, .products-section .wc-block-grid__product-price.price{
+	font-family: 'Work Sans', sans-serif !important;
+}
+.banner-section .wp-block-buttons {
+	text-align: center;
+  display: block;
+}
+.banner-section .wp-block-button__link{
+	font-weight: 600;
+	font-size: 14px;
+}
+.banner-section p{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.banner-section .block-editor-rich-text__editable.wp-block-button__link:hover{
+  background: #75b64a !important;
+}
+/*----- Product Section -----*/
+.products-section {
+	margin-left: 50px !important;
+	margin-right: 50px !important;
+	padding: 0 !important;
+}
+.products-section h2{
+  border-bottom: solid 1px #e1e1e1;
+}
+.products-section li:hover .wc-block-grid__product-image img{
+  opacity: 0.5;
+}
+.products-section li.wc-block-grid__product {
+  border: solid 1px #e1e1e1;
+  padding: 10px !important;
+  text-align: left;
+  flex: 1 0 22% !important;
+  max-width: 23% !important;
+  margin-right: 20px !important;
+  margin-bottom: 20px !important;
+}
+.products-section ul.wc-block-grid__products li:last-child{
+  margin-right: 0 !important;
+}
+.products-section li.wc-block-grid__product a{
+  text-decoration: none;
+}
+.products-section .wc-block-grid__product-onsale{
+  background: #f06845;
+  margin: 0 ;
+  border: 0;
+  color: #fff !important;
+  border-radius: 0px;
+  padding: 8px 15px;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+.products-section li a.add_to_cart_button{
+  font-size: 13px !important;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 0;
+  background: #75b64a;
+  color: #fff;
+}
+.products-section .wc-block-grid__product-title{
+  color: #3f3f3f;
+  margin-top: 0;
+  padding-bottom: 5px;
+  margin: 0;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.products-section .wc-block-grid__product-price.price {
+  color: #3f3f3f;
+  font-size: 13px;
+  font-weight: 600;
+}
+.products-section .wc-block-grid__product-price.price del{
+  color: #919191;
+}
+.products-section .wc-block-grid__product-price.price ins{
+  text-decoration: none;
+}
+.products-section .wc-block-grid__product-add-to-cart{
+  margin: 0;
+}
