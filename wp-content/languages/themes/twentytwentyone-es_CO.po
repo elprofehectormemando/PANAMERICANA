@@ -17,7 +17,7 @@ msgid "Twenty Twenty-One is a blank canvas for your ideas and it makes the block
 msgstr "Twenty Twenty-One es un lienzo en blanco para tus ideas y hace que el editor de bloques sea tu mejor pincel. Con los nuevos patrones de bloques, que te permiten crear un hermoso diseño en cuestión de segundos, los suaves colores de este tema y el diseño llamativo, aunque atemporal, harán que tu trabajo brille. ¡Dale una vuelta! Mira cómo Twenty Twenty-One eleva tu porfolio, tu web de negocios o tu blog personal."
 
 #. Theme Name of the theme
-#: inc/block-patterns.php:24
+#: classes/class-twenty-twenty-one-dark-mode.php:381 inc/block-patterns.php:24
 #, gp-priority: high
 msgid "Twenty Twenty-One"
 msgstr "Twenty Twenty-One"
@@ -92,22 +92,22 @@ msgctxt "Added to posts and pages that are missing titles"
 msgid "Untitled"
 msgstr "Sin título"
 
-#: inc/block-patterns.php:131
+#: inc/block-patterns.php:136
 msgctxt "Block pattern sample content"
 msgid "Cambridge, MA, 02139"
 msgstr "Bogotá, DC, 110111"
 
-#: inc/block-patterns.php:131
+#: inc/block-patterns.php:136
 msgctxt "Block pattern sample content"
 msgid "123 Main Street"
 msgstr "Calle Principal, 123"
 
-#: inc/block-patterns.php:131
+#: inc/block-patterns.php:136
 msgctxt "Block pattern sample content"
 msgid "123-456-7890"
 msgstr "123-456-7890"
 
-#: inc/block-patterns.php:131
+#: inc/block-patterns.php:136
 msgctxt "Block pattern sample content"
 msgid "example@example.com"
 msgstr "ejemplo@ejemplo.com"
@@ -201,19 +201,19 @@ msgstr "Este contenido está protegido con contraseña. Por favor, introduce la 
 msgid "Open menu"
 msgstr "Abrir el menú"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "&#8220;Reading&#8221; by Berthe Morisot"
 msgstr "«Leyendo» de Berthe Morisot"
 
-#: inc/block-patterns.php:98
+#: inc/block-patterns.php:101
 msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
 msgstr "«Autorretrato» de Berthe Morisot"
 
-#: inc/block-patterns.php:98
+#: inc/block-patterns.php:101
 msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
 msgstr "«Narcisos» de Berthe Morisot"
 
-#: inc/block-patterns.php:86 inc/block-patterns.php:121
+#: inc/block-patterns.php:89 inc/block-patterns.php:125
 #: inc/starter-content.php:43
 msgid "&#8220;Roses Trémières&#8221; by Berthe Morisot"
 msgstr "«Malvarrosas» de Berthe Morisot"
@@ -273,61 +273,61 @@ msgctxt "Theme starter content"
 msgid "Create your website with blocks"
 msgstr "Crea tu web con bloques"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "Reading"
 msgstr "Leyendo"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "Young Woman in Mauve"
 msgstr "Mujer joven en malva"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "The Garden at Bougival"
 msgstr "El jardín de Bougival"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "In the Bois de Boulogne"
 msgstr "En el bosque de Boulogne"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "Villa with Orange Trees, Nice"
 msgstr "Villa con naranjos, Niza"
 
-#: inc/block-patterns.php:121
+#: inc/block-patterns.php:125
 msgid "Roses Trémières"
 msgstr "Malvarrosas"
 
-#: inc/block-patterns.php:110
+#: inc/block-patterns.php:114
 msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
 msgstr "«Villa con naranjos, Niza» por Berthe Morisot"
 
-#: inc/block-patterns.php:110
+#: inc/block-patterns.php:114
 msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
 msgstr "Hermosos jardines pintados por Berthe Morisot a finales de los años 1800"
 
-#: inc/block-patterns.php:110 inc/block-patterns.php:121
+#: inc/block-patterns.php:114 inc/block-patterns.php:125
 msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
 msgstr "«El jardín de Bougival» de Berthe Morisot"
 
-#: inc/block-patterns.php:86 inc/block-patterns.php:121
+#: inc/block-patterns.php:89 inc/block-patterns.php:125
 #: inc/starter-content.php:61
 msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
 msgstr "«Mujer joven en malva» de Berthe Morisot"
 
-#: inc/block-patterns.php:86 inc/block-patterns.php:121
+#: inc/block-patterns.php:89 inc/block-patterns.php:125
 #: inc/starter-content.php:51
 msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
 msgstr "«En el bosque de Boulogne» de Berthe Morisot"
 
-#: inc/block-patterns.php:74
+#: inc/block-patterns.php:76
 msgid "Berthe Morisot<br>(French, 1841-1895)"
 msgstr "Berthe Morisot<br>(Francesa, 1841-1895)"
 
-#: inc/block-patterns.php:74
+#: inc/block-patterns.php:76
 msgid "Playing in the Sand"
 msgstr "Jugando en la arena"
 
-#: inc/block-patterns.php:74
+#: inc/block-patterns.php:76
 msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
 msgstr "«Jugando en la arena» de Berthe Morisot"
 
@@ -452,90 +452,90 @@ msgstr "Bordes"
 msgid "Overlap"
 msgstr "Superponer"
 
-#: inc/block-patterns.php:130
+#: inc/block-patterns.php:135
 msgctxt "Block pattern description"
 msgid "A block with 3 columns that display contact information and social media links."
 msgstr "Un bloque con 3 columnas que muestra información de contacto y enlaces a redes sociales."
 
-#: inc/block-patterns.php:128
+#: inc/block-patterns.php:132
 msgid "Contact information"
 msgstr "Información de contacto"
 
-#: inc/block-patterns.php:120
+#: inc/block-patterns.php:124
 msgctxt "Block pattern description"
 msgid "A list of projects with thumbnail images."
 msgstr "Una lista de proyectos con imágenes en miniatura."
 
-#: inc/block-patterns.php:118
+#: inc/block-patterns.php:122
 msgid "Portfolio list"
 msgstr "Lista de porfolio"
 
-#: inc/block-patterns.php:109
+#: inc/block-patterns.php:113
 msgctxt "Block pattern description"
 msgid "An overlapping columns block with two images and a text description."
 msgstr "Un bloque de columnas superpuestas con dos imágenes y una descripción de texto."
 
-#: inc/block-patterns.php:106
+#: inc/block-patterns.php:109
 msgid "Overlapping images and text"
 msgstr "Imágenes y textos superpuestos"
 
-#: inc/block-patterns.php:97
+#: inc/block-patterns.php:100
 msgctxt "Block pattern description"
 msgid "A media & text block with a big image on the left and a smaller one with bordered frame on the right."
 msgstr "Un bloque de medios y texto con una imagen grande a la izquierda y otra más pequeña con un marco bordeado a la derecha."
 
-#: inc/block-patterns.php:94
+#: inc/block-patterns.php:97
 msgid "Two images showcase"
 msgstr "Exposición de dos imágenes"
 
-#: inc/block-patterns.php:85
+#: inc/block-patterns.php:88
 msgctxt "Block pattern description"
 msgid "Three images inside an overlapping columns block."
 msgstr "Tres imágenes dentro de un bloque de columnas superpuestas."
 
-#: inc/block-patterns.php:82
+#: inc/block-patterns.php:84
 msgid "Overlapping images"
 msgstr "Imágenes superpuestas"
 
-#: inc/block-patterns.php:73
+#: inc/block-patterns.php:75
 msgctxt "Block pattern description"
 msgid "A Media & Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph."
 msgstr "Un bloque de medios y texto con una imagen grande a la izquierda y un encabezado a la derecha. El título va seguido de un separador y un párrafo de descripción."
 
-#: inc/block-patterns.php:70
+#: inc/block-patterns.php:72
 msgid "Media and text article title"
 msgstr "Título del artículo de medios y texto"
 
-#: inc/block-patterns.php:62
+#: inc/block-patterns.php:64
 msgid "example@example.com"
 msgstr "ejemplo@ejemplo.com"
 
-#: inc/block-patterns.php:62
+#: inc/block-patterns.php:64
 msgid "Dribbble"
 msgstr "Dribbble"
 
-#: inc/block-patterns.php:62
+#: inc/block-patterns.php:64
 msgid "Instagram"
 msgstr "Instagram"
 
-#: inc/block-patterns.php:62
+#: inc/block-patterns.php:64
 msgid "Twitter"
 msgstr "Twitter"
 
-#: inc/block-patterns.php:62
+#: inc/block-patterns.php:64
 msgid "Let&#8217;s Connect."
 msgstr "Conectemos."
 
-#: inc/block-patterns.php:61
+#: inc/block-patterns.php:63
 msgctxt "Block pattern description"
 msgid "A huge text followed by social networks and email address links."
 msgstr "Un texto enorme seguido de redes sociales y enlaces a direcciones de correo electrónico."
 
-#: inc/block-patterns.php:58
+#: inc/block-patterns.php:59
 msgid "Links area"
 msgstr "Área de enlaces"
 
-#: inc/block-patterns.php:50
+#: inc/block-patterns.php:51
 msgid "A new portfolio default theme for WordPress"
 msgstr "Un nuevo tema por defecto de porfolio para WordPress"
 
